@@ -3,7 +3,7 @@
   "titleTemplate": "%s - ACME Storefront",
   "description": "Next.js Commerce - https://www.nextjs.org/commerce",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
+    "title": "ACME Storefront",
     "description": "Next.js Commerce - https://www.nextjs.org/commerce",
     "type": "website",
     "locale": "en_IE",
